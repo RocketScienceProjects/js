@@ -10,3 +10,6 @@ Loops
 Arrays
 Objects
 ```
+
+* MyCalendar app
+ * A simple app to manage the to-do list
