@@ -12,4 +12,4 @@ Objects
 ```
 
 * MyCalendar app
- * A simple app to manage the to-do list
+>  A simple app to manage the to-do list
