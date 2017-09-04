@@ -15,7 +15,7 @@ var workout = {
   }
 }
 
-workout.energyLevel = "Strong"
+workout.energyLevel = "Strong"  // this adds a new property in the object
 
 console.log(workout)
 
