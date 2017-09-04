@@ -4,7 +4,7 @@ comments.data = ["hello", "hi there", "i went to the club"]
 
 
 //print the comments data using a global Fucntion of forEach
-/*
+
 var print = function(arr){
   arr.forEach( function(el) {
     console.log(el);
@@ -13,7 +13,7 @@ var print = function(arr){
 };
 
 console.log(print(comments.data))
-*/
+
 
 
 //make the print function to a part of the comments obj, that access &
